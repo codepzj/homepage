@@ -37,9 +37,3 @@ pnpm run dev
 ```
 pnpm run build
 ```
-
-## 项目部署
-
-```
-pnpm run deploy
-```
